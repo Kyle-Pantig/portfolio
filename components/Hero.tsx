@@ -41,7 +41,7 @@ const Hero = () => {
             className=" text-[40px] md:text-5xl lg:text-6xl "
             words="Turning Ideas into Flawless User Experiences"
           />
-          <p className=" md:tracking-wider mb-4 text-sm md:text-lg lg:text-xl max-w-2xl">
+          <p className=" md:tracking-wider mb-4 text-sm md:text-lg lg:text-xl max-w-2xl text-white-100">
             Hi, I&apos;m Kyle, a Computer Engineering student at Don Honorio
             Ventura State University. I enjoy creating clean, responsive, and
             user-friendly websites. While I focus on front-end development, I
