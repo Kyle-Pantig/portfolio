@@ -77,6 +77,24 @@ const data = [
     src: "/rp12.png",
     content: <DummyContent id={12} />,
   },
+  {
+    category: "Desktop Application",
+    title: "Quiz History App",
+    src: "/rp13.png",
+    content: <DummyContent id={13} />,
+  },
+  {
+    category: "Desktop Application",
+    title: "DHVSU Room Checker",
+    src: "/rp14-1.png",
+    content: <DummyContent id={14} />,
+  },
+  {
+    category: "Desktop Application",
+    title: "Burger Ordering System",
+    src: "/rp15.png",
+    content: <DummyContent id={15} />,
+  },
 ];
 
 const RecentProjects = () => {

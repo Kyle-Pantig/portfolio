@@ -247,6 +247,57 @@ export const recentProjects = [
       "A simple Python app using Tkinter to help solve the DDO Vale puzzle, with an easy-to-use interface.",
     img: "/rp12.png",
   },
+  {
+    id: 13,
+    title: "Java Quiz Application",
+    description:
+      "A quiz program built with Java in NetBeans, featuring a fixed set of questions and multiple-choice options. Users can answer and view their results immediately.",
+    img: "/rp13.png",
+  },
+  {
+    id: 13,
+    title: "Interactive Quiz with Score Notifications",
+    description:
+      "Developed in Java using NetBeans, this quiz app presents pre-defined questions and displays pop-up notifications for scores and errors, providing instant feedback.",
+    img: "/rp13-1.png",
+  },
+  {
+    id: 14,
+    title: "Room Checker Sign Up/Sign In",
+    description:
+      "A Java application for DHVSU Room Checker with a user-friendly login and registration view. Users can enter their credentials to access the system, developed with MySQL for secure data storage.",
+    img: "/rp14.png",
+  },
+  {
+    id: 14,
+    title: "Reset Password and OTP Functionality",
+    description:
+      "This Java-based DHVSU Room Checker includes features for password resets, OTP verification, and change functionality. Built with MySQL, it ensures secure and efficient account management.",
+    img: "/rp14-2.png",
+  },
+  {
+    id: 14,
+    title: "Room Availability and Occupancy View",
+    description:
+      "The main interface of the DHVSU Room Checker application shows real-time room availability and occupancy. Powered by MySQL with CRUD operations for dynamic data updates.",
+    img: "/rp14-1.png",
+  },
+  {
+    id: 15,
+    title: "Burger Ordering System - Customize Your Burger",
+    description:
+      "A simple burger ordering system built in Java using NetBeans. Users can select their preferred patty and condiments, with message dialogs showing errors or invalid selections.",
+    img: "/rp15.png",
+},
+{
+    id: 15,
+    title: "Burger Ordering System - Order Summary",
+    description:
+      "Developed in Java with NetBeans, this system lets users view a detailed order summary, including selected items and total cost. Message dialogs display order confirmations and any errors.",
+    img: "/rp15-1.png",
+},
+
+
 ];
 
 export const techStack = [
